@@ -4,7 +4,6 @@
   A simple class for an HC_SR04 ultrasonic sensor, primarily for use with Arduinos.
   Written by Aram Perez, aramperez at mac dot com.
 
-  The MIT License (MIT)
   Copyright © 2016 Aram Perez
 
   Permission is hereby granted, free of charge, to any person obtaining a copy

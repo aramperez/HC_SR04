@@ -1,4 +1,4 @@
-HC_SR04 KEYWORD1
-setDelay KEYWORD2
-inches KEYWORD2
-centimeters KEYWORD2
+HC_SR04	KEYWORD1
+setDelay	KEYWORD2
+inches	KEYWORD2
+centimeters	KEYWORD2
